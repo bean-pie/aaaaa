@@ -1,0 +1,41 @@
+
+body
+{
+    font-family: 'Lilita One', cursive;
+    background: #00E7FE;
+}
+
+.header_div
+{
+    font-family: 'Rubik Wet Paint', cursive;
+    background-color: #0062ff;
+    color: #B700FF ;
+}
+
+.header_div p{
+    font-family: 'Rubik Wet Paint', cursive;
+   color: #B700FF;
+   letter-spacing: 2px;
+   font-size: 12px;
+   font-weight:bold;
+}
+
+.main_div.button{
+    font-family: 'Rubik Wet Paint', cursive;
+  margin-top: 30px;
+   letter-spacing: 12px;
+   width:130px;
+   font-weight:bolder;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #0062ff
+    bottom: 0;
+    width:100%;
+    font-size:16px;
+    background-color: #B700FF;
+    line-height: 3;
+    text-align: center; 
+    text-shadow: 5px 5px 5px rgb(104, 0, 177);
+}
